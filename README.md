@@ -1,1 +1,1 @@
-# nunuji123.github.io
+[使用Hexo 生成静态文件](https://github.com/hoperyy/blog/issues/10)
