@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: test
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Nora
+language: zh-CN
 timezone: ''
 
 # URL
@@ -102,4 +102,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: https://github.com/nunuji123/nunuji123.github.io.git
+  branch: master
